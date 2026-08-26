@@ -1,0 +1,1 @@
+var e={klineMenuTimeRange:{t:0,b:{t:2,i:[{t:3}],s:`设置范围`}},klineMenuForwardAdjust:{t:0,b:{t:2,i:[{t:3}],s:`前复权`}},klineMenuBackwardAdjust:{t:0,b:{t:2,i:[{t:3}],s:`后复权`}},klineMenuNoAdjust:{t:0,b:{t:2,i:[{t:3}],s:`不复权`}},klineMenuZoom:{t:0,b:{t:2,i:[{t:3}],s:`局部放大`}},klineMenuStat:{t:0,b:{t:2,i:[{t:3}],s:`区间统计`}}};export{e as default};
